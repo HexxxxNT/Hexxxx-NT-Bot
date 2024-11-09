@@ -25,4 +25,4 @@ TODO: Add tutorial. :(
 - Automated testing & less bugs :)
 
 ## Not planned / missing features (for now)
-- Captcha / human verification
+- Captcha bypass / human verification
