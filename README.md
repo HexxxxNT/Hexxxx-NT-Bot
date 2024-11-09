@@ -1,5 +1,5 @@
 # Hexxxx's NT Bot
-Hexxxx's NT Bot is a simple Nitro Type bot written in Python, using selenium and chromedriver. Brought to you by impeccable distaste towards the ongoing neglegence of the NT development team and unsufficient anti-cheat measures. A project to test NT's bot detection, will probably be abused for cheating, but there are already better bots written in JavaScript anyways.
+Hexxxx's NT Bot is a simple Nitro Type bot written in Python, using selenium and chromedriver. Brought to you by impeccable distaste towards the ongoing neglegence of the NT development team and insufficient anti-cheat measures. A project to test NT's bot detection, will probably be abused for cheating, but there are already better bots written in JavaScript anyways.
 
 ## Requirements
 The following system requirements must be met to run Hexxxx's NT Bot:
