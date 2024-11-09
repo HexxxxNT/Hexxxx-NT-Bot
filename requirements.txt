@@ -1,0 +1,7 @@
+chromedriver-autoinstaller==0.6.4
+selenium==4.25.0
+undetected-chromedriver==3.5.5
+setuptools==75.3.0
+pywin32~=308
+ttkthemes~=3.2.2
+pillow~=11.0.0
