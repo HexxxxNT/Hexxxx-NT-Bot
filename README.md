@@ -23,3 +23,6 @@ TODO: Add tutorial. :(
 - Better randomization and actual anti-detection strategies
 - Headless mode
 - Automated testing & less bugs :)
+
+## Not planned / missing features (for now)
+- Captcha / human verification
